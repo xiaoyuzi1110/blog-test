@@ -20,7 +20,6 @@ function f(){
 }
 ```
 
-我的网站是 [我的网址](https://github.com/xiaoyuzi1110/markdown-demo-01))
+我的网站是 [我的网址](https://github.com/xiaoyuzi1110/blog-test))
 
 ![图片蘑菇](1.png)
-
