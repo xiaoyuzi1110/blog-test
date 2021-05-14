@@ -1,17 +1,26 @@
 # 标题1
-## 标题2
-### 标题3
+    自我介绍
 
 正文
 
-爱好
+我叫小雨，我的爱好是
+
+* 看书
+* 跑步
+
+我的学习经历是
+
+* 本科
+* 硕士
 
 代码
+```javascript
+function f(){
+    console.log('hello world')
+}
+```
 
 我的网站是 [我的网址](https://github.com/xiaoyuzi1110/markdown-demo-01))
 
 ![图片蘑菇](1.png)
 
-```javascript
-console.log('hello')
-```
